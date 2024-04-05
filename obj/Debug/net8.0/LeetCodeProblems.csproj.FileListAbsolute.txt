@@ -1,0 +1,15 @@
+E:\DevSources\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.exe
+E:\DevSources\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.deps.json
+E:\DevSources\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.runtimeconfig.json
+E:\DevSources\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.dll
+E:\DevSources\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.pdb
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.AssemblyInfoInputs.cache
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.AssemblyInfo.cs
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.csproj.CoreCompileInputs.cache
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.sourcelink.json
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.dll
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\refint\LeetCodeProblems.dll
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.pdb
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.genruntimeconfig.cache
+E:\DevSources\LeetCodeProblems\obj\Debug\net8.0\ref\LeetCodeProblems.dll
