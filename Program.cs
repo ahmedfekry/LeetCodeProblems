@@ -6,12 +6,11 @@ namespace LeetCodeProblems
     {
         static void Main(string[] args)
         {
-            GreatestElementOnRight greatestElement = new GreatestElementOnRight();
+            SortArrayByParity sortArrayByParity = new SortArrayByParity();
+            int[] nums = { 3, 1, 2, 4 };
+            nums = sortArrayByParity.SortArrayByParitySol(nums);
 
-            int[] arr = { 400 };
-            arr = greatestElement.ReplaceElements(arr);
-
-            printArray(arr);
+            printArray(nums);
         }
 
         public static void printArray(int[] arra)
