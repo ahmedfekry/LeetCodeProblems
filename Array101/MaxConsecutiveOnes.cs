@@ -4,22 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.TwoPointers
+namespace LeetCodeProblems.Array101
 {
     public class MaxConsecutiveOnes
     {
         public int FindMaxConsecutiveOnes(int[] nums)
         {
-            if (nums.Length ==1 && nums[0] == 1)
+            if (nums.Length == 1 && nums[0] == 1)
             {
                 return 1;
-            }else if(nums.Length == 1 && nums[0] == 0)
+            }
+            else if (nums.Length == 1 && nums[0] == 0)
             {
                 return 0;
             }
 
             int max = 0;
-            for (int i = 0;i<nums.Length;i++)
+            for (int i = 0; i < nums.Length; i++)
             {
 
                 //int counter = 0;

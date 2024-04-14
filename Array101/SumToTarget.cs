@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.TwoPointers
+namespace LeetCodeProblems.Array101
 {
     public class SumToTarget
     {
@@ -20,7 +20,7 @@ namespace Algorithms.TwoPointers
             }
 
             int i = 0;
-            int j = numbers.Length-1;
+            int j = numbers.Length - 1;
             while (i < j)
             {
                 if (numbers[j] > target)
@@ -38,8 +38,8 @@ namespace Algorithms.TwoPointers
                 int sum = numbers[i] + numbers[j];
                 if (sum == target)
                 {
-                    result[0] = i+1;
-                    result[1] = j+1;
+                    result[0] = i + 1;
+                    result[1] = j + 1;
                     break;
                 }
                 else

@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.TwoPointers
+namespace LeetCodeProblems.Array101
 {
     public class RemoveElement
     {
         public int RemoveElementSolution(int[] numbers, int val)
         {
-            
+
             int k = 0;
             for (int i = 0; i < numbers.Length; i++)
             {
-                if (numbers[i] != val) {
+                if (numbers[i] != val)
+                {
                     int temp = numbers[i];
                     numbers[i] = numbers[k];
                     numbers[k] = temp;

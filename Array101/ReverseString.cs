@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Algorithms.TwoPointers
+namespace LeetCodeProblems.Array101
 {
     public class ReverseString
     {
@@ -12,7 +12,8 @@ namespace Algorithms.TwoPointers
         {
             int i = 0, j = str.Length - 1;
 
-            while(i < j) { 
+            while (i < j)
+            {
                 char temp = str[i];
                 str[i] = str[j];
                 str[j] = temp;

@@ -1,4 +1,4 @@
-﻿using LeetCodeProblems.InPlaceArrayOperations;
+﻿using LeetCodeProblems.Array101;
 
 namespace LeetCodeProblems
 {
